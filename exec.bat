@@ -1,0 +1,1 @@
+ipython --gui=qt nap.py
