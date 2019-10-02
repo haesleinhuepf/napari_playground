@@ -1,0 +1,6 @@
+c:\users\rober\anaconda3\lib\site-packages\napari\__init__.py:27: UserWarning:
+    napari was tested with QT library `>=5.12.3`.
+    The version installed is 5.9.6. Please report any issues with this
+    specific QT version at https://github.com/Napari/napari/issues.
+
+  warn(message=warn_message)
